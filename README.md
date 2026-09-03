@@ -16,7 +16,7 @@
 
 ---
 
-## 🇺🇸 About me
+## 🧭 About me — English
 
 I'm a Junior Development Analyst at **Staf Sistemas**, where I build and maintain software for Brazilian municipal governments on the **Betha Suite** platform.
 
@@ -28,7 +28,7 @@ Outside of that, I develop **REST APIs with Java and Spring Boot** — my main p
 - 🌱 Currently deepening: Spring Boot, JPA/Hibernate, automated testing and clean architecture
 - 🗣️ Portuguese (native) · English (fluent, certified)
 
-## 🇧🇷 Sobre mim
+## 🧭 Sobre mim — Português
 
 Sou Analista de Desenvolvimento Júnior na **Staf Sistemas**, onde desenvolvo e mantenho soluções para a gestão pública municipal brasileira na plataforma **Betha Suite**.
 
